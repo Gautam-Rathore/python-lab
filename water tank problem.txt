@@ -1,0 +1,16 @@
+h=10
+r=5
+f=10
+t=int(input("enter the time"))
+vtank = 3.14*r**2*h
+vwtr = f*t
+if vwatr>vtank:
+print("over flow condition")
+print("volume of",vwtr-vtank)
+else if vwtr == v tank:
+print("tank full")
+else:
+print("underflow condition")
+ht = vwtr/(3.14*r**2)
+hr = h = ht
+printf("filled height(hr)\n remaining height (hr)")
